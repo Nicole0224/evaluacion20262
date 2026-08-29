@@ -211,3 +211,4 @@ C:\Users\ASUS\Desktop\Individual-Entregable\evaluacion20262\obj\Debug\net10.0\re
 C:\Users\ASUS\Desktop\Individual-Entregable\evaluacion20262\obj\Debug\net10.0\evaluacion20262.pdb
 C:\Users\ASUS\Desktop\Individual-Entregable\evaluacion20262\obj\Debug\net10.0\evaluacion20262.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Individual-Entregable\evaluacion20262\obj\Debug\net10.0\ref\evaluacion20262.dll
+C:\Users\ASUS\Desktop\Individual-Entregable\evaluacion20262\obj\Debug\net10.0\evaluacion20262.sourcelink.json
